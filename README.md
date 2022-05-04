@@ -54,7 +54,6 @@ Görüntünün kenar algılamalarının tespiti gerçekleştikten sonra ilgileni
 Tepe noktası olarak da [550,250] değeri gelmektedir.
 
 ![image](https://user-images.githubusercontent.com/73740709/166805850-a9eb4fba-a38f-4138-b06f-c42f9ac08601.png)
-
 ![image](https://user-images.githubusercontent.com/73740709/166805899-ecce27ae-9b84-47f9-b1d4-5e9fcb7d26e0.png)
 
 ### D.Hough Transform
