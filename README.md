@@ -45,8 +45,7 @@ Sonrasındaki parametre ise verilen eşik değerinden daha düşük olan değerl
 Canny algoritması ile birlikte aşağıda verilen ilk görüntü kenarların threshold değerlerine göre algılandığı ikinci şekle bürünmüştür.
 
 ![image](https://user-images.githubusercontent.com/73740709/166805679-8728ac3c-41f8-4e8f-ac5d-715dbd88ee0b.png)
-
-![image](https://user-images.githubusercontent.com/73740709/166805728-cfbf6102-49c1-40d8-b0ec-a4f26a5c65b8.png)
+ ![image](https://user-images.githubusercontent.com/73740709/166805728-cfbf6102-49c1-40d8-b0ec-a4f26a5c65b8.png)
 
 ### C.İlgilenilecek Bölgenin Tespiti
 Görüntünün kenar algılamalarının tespiti gerçekleştikten sonra ilgilenilen bölgenin tespiti için matplotlib kütüphanesi kullanılmıştır.
@@ -54,6 +53,7 @@ Görüntünün kenar algılamalarının tespiti gerçekleştikten sonra ilgileni
 Tepe noktası olarak da [550,250] değeri gelmektedir.
 
 ![image](https://user-images.githubusercontent.com/73740709/166805850-a9eb4fba-a38f-4138-b06f-c42f9ac08601.png)
+
 ![image](https://user-images.githubusercontent.com/73740709/166805899-ecce27ae-9b84-47f9-b1d4-5e9fcb7d26e0.png)
 
 ### D.Hough Transform
