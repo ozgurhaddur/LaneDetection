@@ -1,9 +1,9 @@
 # LANE DETECTION
 
-## Amaç
+# Amaç
 Çeşitli görüntü işleme yöntemleri kullanılarak araç içerisinde bulunan kamera aracılığıyla elde edilen görüntüleri değerlendirerek gerçek zamanlı olarak aracın sağ ve solundaki trafik şeritlerini bulmaya yönelik şerit bölgesi belirleme, şerit eşleştirme ve şerit takibi olmak üzere şerit algılama işlemlerini gerçekleştiren bir sistem tasarlanmış ve gerçeklenmiştir. Bu tür sistemlerde amaç, insan kontrolüne gerek kalmaksızın güvenli sürüşü sağlamak ve insan hatalarından kaynaklanan kazaları engellemeye yardımcı olmaktır.
 
-## Yöntem
+# Yöntem
 Uygulamayı çalıştırmak için kullanılacak IDE içinde import edilmesi gereken kütüphaneler yer almaktadır. 
 Bu kütüphanelerin import edilmeden önce eğer daha önce görüntü işleme üzerine proje yapılmamışsa ya da kütüphaneler ekli değilse command prompter (cmd) aracılığıyla piplenmesi gerekmektedir. Aksi takdirde import edilen kütüphaneler için ModuleNotFoundError: No module named ‘library_name’ şeklinde hata ile karşılaşılmaktadır.
 
@@ -68,7 +68,7 @@ Fakat her kenara göre bir kenar çizgisi ortaya çıktığı için görüntü b
 Bunu engellemek için koordinatlara göre ortalama bir kenar çizgisi elde edilmek istenmiştir.  
 Her kenar çizgisi eğimlerine ve olduğu tarafa (sağ veya sol) göre sınıflandırılıp ortalama bir kenar çizgisi ortaya çıkarılmıştır.
 
-## Sonuç
+# Sonuç
 
 ![image](https://user-images.githubusercontent.com/73740709/166806443-7662628f-d8a2-4d22-a540-5fb415324276.png)
 
